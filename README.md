@@ -19,4 +19,7 @@
 # RESULTADO DO ATAQUE PHISHING📈
 
 ### Como mencionado anteriormente, a página que servirá de isca é o login de contas google. No exemplo a seguir eu inseri um email e senha fictício;
+![](/img/model.png)
+
+### Como podemos visualizar no exemplo a seguir, o email e senha inseridos pelo usuário, foi coletado e enviado para a minha máquina
 ![](/img/result.png)
