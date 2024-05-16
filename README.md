@@ -18,4 +18,5 @@
 
 # RESULTADO DO ATAQUE PHISHING📈
 
-###
+### Como mencionado anteriormente, a página que servirá de isca é o login de contas google. No exemplo a seguir eu inseri o email e senha;
+![]()
